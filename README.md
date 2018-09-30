@@ -25,6 +25,10 @@ The available arguments are displayed above:
 |# 2|Provides the category your idea belongs|No|
 |# 3|Provides the author/s who came up with the idea|No|
 
+## Note to wholesome persons who share their ideas
+
+The current process to accept pull requests is by manually reviewing them and accepting them, so don't panic if its not accepted immediately!
+
 ### So far these are the ideas the community has shared!
 
 |Idea|Category|Author|
