@@ -34,3 +34,4 @@ The current process to accept pull requests is by manually reviewing them and ac
 |Idea|Category|Author|
 |-----------|--------|------|
 |A repository for sharing project ideas!|General|freitzzz|
+|A website where everytime you view it, it randomly displays a new project idea|General|Cooctus|
