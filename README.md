@@ -1,5 +1,5 @@
 # hacktoberfest-ideas
-Your ideas are cool and the world needs to hear them!
+Your ideas are worth sharing and the world needs to hear them!
 
 ## How can I share my idea?
 Simply fork the repo and run one of the scripts to share your idea!
@@ -10,7 +10,7 @@ You can also edit both [Ideas](ideas.md) and [README](README.md) documents if yo
 No, but you can also categorize it and mark the author/s who came up with the idea.
 
 ## Are all ideas accepted?
-Yes! As stated before your idea is cool and more than accepted even if it requires an evil scientist to put it in action!
+Yes! As stated before your idea is worth sharing and more than accepted even if it requires an evil scientist to put it in action!
 
 For obvious reasons any racism involved is rejected.
 
