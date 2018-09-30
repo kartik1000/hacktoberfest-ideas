@@ -1,4 +1,4 @@
-# hacktoberfest-ideas
+# Hacktoberfest-ideas
 Your ideas are worth sharing and the world needs to hear them!
 
 ## How can I share my idea?
@@ -35,3 +35,4 @@ The current process to accept pull requests is by manually reviewing them and ac
 |-----------|--------|------|
 |A repository for sharing project ideas!|General|freitzzz|
 |A website where everytime you view it, it randomly displays a new project idea|General|Cooctus|
+
