@@ -37,4 +37,5 @@ The current process to accept pull requests is by manually reviewing them and ac
 |A website where everytime you view it, it randomly displays a new project idea|General|Cooctus|
 |An open source journal for publically hosted data science projects|General|Anonymous|
 |A website that shares a Kermit quote to green up your day|General|gildurao
+|A webapp to create an innovative environment for sharing, upvoting and discussing about new ideas or studies related issue | Education |Saurav Jaiswal
 |A contest Bot which can observe your pattern and using your calender automatically notify you about upcoming contest on platforms like codeforces|Competitive Programming|Dheeraj|
