@@ -6,3 +6,4 @@
 |A webapp to create an innovative environment for sharing, upvoting and discussing about new ideas or studies related issue | Education |Saurav Jaiswal
 |A repo for sharing web development roadmap|Web Developement|yripila|
 |A contest Bot which can observe your pattern and using your calender automatically notify you about upcoming contest on platforms like codeforces|Competitive Programming|Dheeraj|
+|A website that shares a Kermit quote to green up your day|General|gildurao
