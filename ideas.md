@@ -8,3 +8,5 @@
 |A contest Bot which can observe your pattern and using your calender automatically notify you about upcoming contest on platforms like codeforces|Competitive Programming|Dheeraj|
 |A website that shares a Kermit quote to green up your day|General|gildurao
 |A platform to manage your project targets and timeline|General|Suvink
+|A neural chatbot with personality of any TV character for eg Chandler|Deep Learning|Ankur|
+
