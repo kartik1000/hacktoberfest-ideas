@@ -11,3 +11,4 @@
 |A neural chatbot with personality of any TV character for eg Chandler|Deep Learning|Ankur|
 |A drag drop interface for learning ML for newbies|Machine Learning|Akashdeep
 
+|Status page that tracks submissions for hacktoberfest PRs|General|Anonymous|
