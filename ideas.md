@@ -10,4 +10,5 @@
 |A platform to manage your project targets and timeline|General|Suvink
 |A neural chatbot with personality of any TV character for eg Chandler|Deep Learning|Ankur|
 |A drag drop interface for learning ML for newbies|Machine Learning|Akashdeep
+|An internet bot which explore web pages and inform us about the books available on the internet which are free to download|Deep Learning|Shweta|
 
