@@ -12,3 +12,4 @@
 |A drag drop interface for learning ML for newbies|Machine Learning|Akashdeep
 |An internet bot which explore web pages and inform us about the books available on the internet which are free to download|Deep Learning|Shweta|
 
+|Status page that tracks submissions for hacktoberfest PRs|General|Anonymous|
