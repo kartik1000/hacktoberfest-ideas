@@ -40,3 +40,4 @@ The current process to accept pull requests is by manually reviewing them and ac
 |A webapp to create an innovative environment for sharing, upvoting and discussing about new ideas or studies related issue | Education |Saurav Jaiswal
 |A contest Bot which can observe your pattern and using your calender automatically notify you about upcoming contest on platforms like codeforces|Competitive Programming|Dheeraj|
 
+|Status page that tracks submissions for hacktoberfest PRs|General|Anonymous|
