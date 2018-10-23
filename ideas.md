@@ -14,3 +14,4 @@
 |An internet bot which explore web pages and inform us about the books available on the internet which are free to download|Deep Learning|Shweta|
 |Status page that tracks submissions for hacktoberfest PRs|General|Anonymous|
 |A page to keep track of your friendships and level of contact with warnings when you have been out of touch.|General|Kelsey Rambo|
+A Graphene structured Mobile phone which has Endless Durability as Well as flexiblty. Moreover as it is a conductor it will also reslove the issue of electronic circuits at back|Smartphone Development|Kartik
